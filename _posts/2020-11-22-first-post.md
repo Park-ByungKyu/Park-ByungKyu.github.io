@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: 팀 별 진행사항 정리
+subtitle: 6조의 프로젝트 진행과정 (~11/22)
 
 ---
 
