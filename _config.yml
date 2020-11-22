@@ -14,7 +14,7 @@ author: Park ByungKyu
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Bio"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
